@@ -1,5 +1,5 @@
 import { Button } from '@/components/Button/'
-import { List } from '@/components/List/List'
+import { List } from '@/components/List/'
 import Link from 'next/link'
 
 export default function Listagem() {

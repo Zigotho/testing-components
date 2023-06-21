@@ -1,4 +1,4 @@
-import { List } from '@/components/List/List'
+import { List } from '@/components/List/'
 import { render, screen } from '@testing-library/react'
 
 describe('Should render a List with all props passed', () => {
